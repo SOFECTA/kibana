@@ -15,7 +15,7 @@
     "moment": "^2.20.1",
     "rxjs": "^6.2.1",
     "tree-kill": "^1.2.0",
-    "tslib": "^1.9.3"
+    "tslib": "^1.14.1"
   },
   "devDependencies": {
     "@kbn/babel-preset": "link:../kbn-babel-preset",
