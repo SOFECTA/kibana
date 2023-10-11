@@ -10,7 +10,7 @@
     "kbn:bootstrap": "yarn build"
   },
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^2.4.2",
     "execa": "^0.10.0",
     "moment": "^2.20.1",
     "rxjs": "^6.2.1",
