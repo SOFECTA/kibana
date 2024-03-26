@@ -141,7 +141,7 @@
     "less-loader": "4.0.5",
     "lodash": "npm:@elastic/lodash@3.10.1-kibana1",
     "lru-cache": "4.1.1",
-    "markdown-it": "^8.4.1",
+    "markdown-it": "^13.0.2",
     "minimatch": "^3.0.4",
     "mkdirp": "0.5.1",
     "moment": "^2.20.1",
