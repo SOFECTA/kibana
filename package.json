@@ -204,7 +204,7 @@
     "vega-schema-url-parser": "1.0.0",
     "vega-tooltip": "^0.9.14",
     "vision": "^5.3.3",
-    "webpack": "3.6.0",
+    "webpack": "5.94.0",
     "webpack-merge": "4.1.0",
     "whatwg-fetch": "^2.0.3",
     "wreck": "^14.0.2",
