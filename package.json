@@ -109,7 +109,7 @@
     "elasticsearch": "^15.1.1",
     "elasticsearch-browser": "^15.1.1",
     "encode-uri-query": "1.0.0",
-    "execa": "^0.10.0",
+    "execa": "^9.6.0",
     "expiry-js": "0.1.7",
     "extract-text-webpack-plugin": "3.0.1",
     "file-loader": "1.1.4",
