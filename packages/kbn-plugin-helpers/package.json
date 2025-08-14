@@ -16,7 +16,7 @@
     "execa": "^0.10.0",
     "gulp-rename": "1.2.2",
     "gulp-zip": "^4.1.0",
-    "inquirer": "^1.2.2",
+    "inquirer": "^8.2.7",
     "minimatch": "^3.0.4",
     "node-sass": "^4.9.0",
     "through2": "^2.0.3",
